@@ -6,6 +6,10 @@
  - 黄历
 
 ### 调用示例
+##### 启动
+```
+node server.js
+```
 ##### request
 ```
 http://127.0.0.1:8081/getDateInfo?year=2019&month=10&date=1
